@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace login.view
+namespace login
 {
-    public partial class view1 : Form
+    public partial class Roles : Form
     {
-        public view1()
+        public Roles()
         {
             InitializeComponent();
         }
