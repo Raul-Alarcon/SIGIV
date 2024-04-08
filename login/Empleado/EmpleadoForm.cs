@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace login.view
+namespace login.Empleado
 {
-    public partial class view1 : Form
+    public partial class EmpleadoForm : Form
     {
-        public view1()
+        public EmpleadoForm()
         {
             InitializeComponent();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
